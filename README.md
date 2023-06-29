@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TinaKikvadze
+- 👀 I’m interested in design and frontend.
+- 🌱 I’m currently learning to code.
